@@ -1233,3 +1233,606 @@ ll
 ls -tlr
 ls -ltr
 mutt
+ls -trl
+rm -rf abc bapti hasan12
+ls -trl
+rm -rf !
+git push orgin master
+git pull
+git push origin master
+history
+git -a .
+git add .
+git push origin master
+cd applications/vyurhksxtw/
+ls
+ls -trl
+cd public_html/
+ls
+ls -trl
+cd 
+touch hasan
+git add .
+touch hasan2222222
+git add .
+git commit -a "test"
+man git
+git add -m "testing"
+git push origin master
+git commit -m "tsting"
+git push master origin
+git push origin master
+cd  applications/vyurhksxtw/
+ls -tlr
+cd public_html/
+ls
+ls -trl
+cd 
+ls t-rl
+ls -trl
+rm -rf 111.txt  hasan* 12224.txt 22.txt last*
+git commit -m "deleting extra files"
+git push origin master
+git add .
+git commit -m "deleting extra files"
+git push origin master
+ls -trl
+cd applications/vyurhksxtw/
+ls -trl
+cd public_html/
+ls
+ls -trl
+cd
+vim gitnotes.txt
+ls -trl
+cd
+clear
+ls -trl
+history
+down vote
+accepted
+Gulp needs to be installed locally, but you can link the local install to a global install:
+npm install --global gulp
+gulp
+ls -trl
+ls -trla
+gource .npm
+source .npm
+ls -trl
+cd .npm
+ls
+ls -trl
+npm install --global gulp-cli
+npm install gulp -g
+npm install bower -g
+npm install bower -gv
+bower 
+ls -trl
+cd
+apt-get install npm
+apt-get install npmv
+npm -version
+ls -trl
+npm install bower
+npm run gulph
+npm run gulph -v
+npm -v
+cd .npm
+ls
+l s-tlr
+ls -trl
+cd global-modules/
+ls
+ls -trl
+cd 1.0.0/package/
+s
+d ..
+cd ..
+ls
+cd ..
+ls
+ls -trl
+cd ..
+ls -trl
+npm link gulph
+npm install -g gulp-cli
+npm uninstall gulph -v
+npm uninstall gulph
+npm remove gulph
+npm install -g gulp-cli
+gulp -v
+npm install --save-dev gulp@next
+gulp -v
+gulp --vesrion
+gulp
+locat gulp
+locate gulp
+npm install --global gulp-cli
+npm install --global gulp-cli
+npm install gulp -D
+gulp 
+gulp -v
+npm gulp v
+npm gulp -v
+npm -v
+bower/1.8.4/package/
+cdbower/1.8.4/package/
+cd
+npm rm --global gulp
+npm uninstall --global gulp gulp-cli
+rm /usr/local/bin/gulp
+cd .npm-global/
+ls
+ls -trl
+cd bin/
+ls
+sl -trl
+./gulp
+ls -tlr
+./bower 
+./bower -v
+npm install gulp-cli -g
+ls -trl
+rm -rf gulp 
+npm install gulp-cli -g
+gulp -v
+npm remove gulp-cli
+npm remove gulp
+npm config get prefix
+npm config set prefix ~/npm
+cd
+vim .bashrc
+vim .bash_profile
+ls -trl
+cd
+vim test
+npm install -g bower
+npm install -g grunt-cli
+npm install -g gulp
+gulp -v
+source test
+ls -trl
+source test
+ls -trl
+source test
+chmod 777 test
+./test 
+source test
+ls -trl
+vim test
+./test 
+ls -tlr
+gulp -v
+npm install gulp
+npm install gulp -v
+npm install gulp -g
+npm config set prefix ~/npm
+gulp
+export PATH="$PATH:$HOME/npm/bin"
+export NODE_PATH="$NODE_PATH:$HOME/npm/lib/node_modules"
+ls -trl
+ls -ltra
+cd .pm
+ls
+npm uninstall gulp
+npm uninstall gulp-cli
+npm uninstall gulp-cli -g
+npm uninstall gulp -g
+npm install -g gulp
+gulp -v
+npm install -g firebase
+firebase -v
+npm firebase
+npm uninstall firebase -g
+npm install -g firebase-tools
+firebase -v
+firebase -version
+man firebase
+firebase 
+firebase --help
+bower 
+npm -v
+npm update
+npm -v
+npm update -g
+npm -v
+npm install npm -g
+npm install -g npm-check-updates
+npm -v
+npm install -g npm@latest
+npm -v
+npm install -g npm@net
+npm install -g npm@next
+npm -v
+npm-check-updates
+npm
+npm -v
+npm
+npm -l
+npm npm install npm@latest -g
+npm install npm@latest -g
+cd npm/lib/node_modules/npm
+ls -trl
+cd bin/
+ls
+ls -trl
+./npm -v
+cd ..
+ls
+ls -trl
+./configure 
+ls -trl
+npm -v
+cd
+ls -trl
+npm i -g npm-upgrade
+npm-upgrade
+npm -v
+npm -version
+npm-g_nosudo
+ls -ltra
+vim .bashrc
+ls -tr
+ls -ltra .bash_profile
+ls -ltr .bash_profile
+pwd
+ls -tlr /home/master
+cd /home/
+ls -trl
+cd master/
+ls
+ls -trl
+touch .bash_profile
+vim .bash_profile 
+ls -trl
+mv test .bash_profile 
+ls -trl
+vim .bash_profile 
+ls -trl
+vim .bash_profile 4
+cd $HOME
+cd $HOME4HOME
+echo $HOME
+ls -trl
+cd npm
+ls -trl
+cd bin/
+ls
+ls -tlr
+curl -L https://www.npmjs.com/install.sh | sh
+npm -v
+gulp  -v
+/home/master/.npm/_logs/2018-10-23T12_24_18_511Z-debug.log
+tail -1000f /home/master/.npm/_logs/2018-10-23T12_24_18_511Z-debug.log
+npm
+npm config get globalconfigetc
+cd /etc/npm
+ls
+ls -ltr
+cd npm/etc
+ls
+cd 
+cd npm/etc/
+ls
+ls -trl
+cd ..
+ls
+ls -trl
+cd bin/
+ls
+ls -trl
+cd ..
+ks
+ls -trl
+cd 
+which npm
+ls -ltr /usr/bin/npm
+which npm
+curl -L https://www.npmjs.com/install.sh
+curl -L https://www.npmjs.com/install.sh | bash
+\vim /home/master/.npm/_logs/2018-10-23T12_31_50_609Z-debug.log
+echo $npm_config_prefix
+wget npm_config_prefix
+wget https://www.npmjs.com/install.sh 
+ls -trl
+vim .bash_profile 
+wpd
+pwd
+ls -trl
+mkdir test
+cd test/
+ls -trl
+pwd
+npm_config_prefix=/home/master/test
+mv ../install.sh .
+ls -trl
+npm_config_prefix=/some/path sh install.sh
+ls -trl
+vim install.sh 
+npm_config_prefix=/some/path sh install.sh
+pwd
+npm_config_prefix=/home/master/test sh install.sh
+npm-cl
+cd 
+cd npm/bin/
+l
+ls
+cd ..
+ls -trl
+cd bin/
+ls -trl
+./npm-upgrade 
+node -v
+npm install -g
+npm cache clean
+npm install -g
+npm --version
+npm i -g npm@latest
+;s =tr;l
+ls -trl
+npm -v
+date
+ls -trl
+./npm
+./npm -v
+source ~/.bash_profile 
+ls -trl
+pwd
+/home/master/npm/bin
+source ~
+vim .bash_profile /etc/
+source ~/.bash_profile 
+npm -v
+source ~/.bash_profile
+vim .bash_profile 
+source ~/.bash_profile
+npm -v
+vim .bash_profile
+npm="/home/master/npm/bin/npm"
+npm -v
+npm="/home/master/npm/bin/npm
+npm="/home/master/npm/bin/npm"
+npm="/home/master/npm/bin/npm
+npm="/home/master/npm/bin/npm"
+
+
+\\\
+ls -trl
+npm -v
+npm-upgrade
+ls -trl
+cd npm/
+ls
+ls -trl
+cd bin/
+ls
+ls -tlr
+./npm -v
+gulp -v
+bower -v
+cd
+vim .bash_profile 
+source .bash_profile 
+npm -v
+ls -trl
+cd
+ls -trl
+cd npm/
+ls
+cd
+./bashrc
+source ~/.test
+ls -trla
+source .bash_profile 
+ls -trl
+./bash_profile
+pwd
+./.bash_profile 
+npm -v
+vim .bashrc
+vim .bashrx~ 
+ls -trl
+vim .bashrc
+ls -trl
+ls -tlra
+chmod 540 .bash_profile 
+./bash_profile
+./.bash_profile
+npm -v
+npm -V
+vim .npmrc 
+vim .bash_profile 
+cd npm/bin/
+ls
+ls -trl
+ln 
+man ln
+npm -v
+./npm -v
+which npm
+cd /usr/bin/
+ls -trl
+touch 123
+ls -trl
+d
+cd 
+ls-trl
+ls -trl
+cd test/
+ls
+sl -trl
+cd
+vim .bash_profile 
+source .bash_profile 
+npm -v
+vim .bash_profile 
+./.bash_profile 
+vim .bash_profile 
+./.bash_profile 
+npm -v
+npmn -v
+echo $npmn
+source ~/.bash_profile 
+ls -trl
+cp .bash_profile test 
+vim test
+cp .bash_profile test1
+ls -trl
+./test1 
+npmn
+npm -v
+./test1 
+vim test1 
+pwd
+vim test1 
+./test1 
+npmv
+npmn
+ls -trl
+env
+echo $npm
+npm -v
+vim test1 
+cd 
+ls -trl
+cd .npm
+ls
+ls -trl
+cd npm/
+ls
+cd 6.4.1/package/
+ls
+ls trl
+cd ..
+ls
+cd ..
+ls
+cd .npm-global/
+ls
+cd bin/
+ls
+ls -trl
+cat gulp 
+ls -ltr
+cd ..
+ls
+cd node_modules/
+ls
+ls -trl
+cd ..
+ls
+ls -trl
+cd node_modules/
+ls
+cd 
+ls -trl
+cd npm/
+ls
+cd bin/
+ls
+ls -trl
+cd //
+cd npm
+ls
+cd
+cd npm/
+ls
+cd lib/
+ls
+ls -trl
+cd node_modules/
+ls
+ls -trl
+cd npm
+ls
+ls -trl
+./configure 
+cd bin/
+ls
+ls -ltr
+./npm
+./npm -v
+cd ..
+ls
+ls -trl
+cd ..
+ls
+ls -trl
+cd ..
+ls
+cd ..
+ls
+cd bin/
+ls
+ls -trl
+cd ..
+cd lib/node_modules/npm/bin/
+ls
+ls -tlr
+./npm-cli.js 
+ls -tlr
+cd ..
+ls
+cd node_modules/
+ls
+ls -trl
+cd ..
+ls
+cd lib/
+ls
+cd node_modules/
+ls
+cd npm
+ls
+cd bin/
+ls
+cd ..
+cd 
+cd npm/
+ls
+cd bin/
+ls
+ls -tlr
+cat ../lib/node_modules/npm/bin/npm-cli.js
+npm
+ls -trl
+./npm -v
+./npm 
+cd ..
+cd lib/node_modules/npm/bin/
+./npm-cli.js 
+./npm-cli.js  -v
+pwd
+/home/master/npm/lib/node_modules/npm/bin
+cd
+vim test1 
+./test1 
+npmv
+ls -trl
+vim test1 
+/home/master/npm/lib/node_modules/npm/bin/npm-cli.js
+vim test1 
+source test1 
+npmn
+vim test1 
+source test1 
+./test1 
+npmn
+vim test1 
+./test1 
+ls -trl
+npmn
+node -version
+node -v
+npm
+npm -v
+vim test1 
+echo $npmn
+./npmn
+./test1
+ls -trl
+env
+npmn
+vim test1 
+vim .bashrc
+exit

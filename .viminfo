@@ -7,15 +7,24 @@
 
 # hlsearch on (H) or off (h):
 ~h
+# Last Search Pattern:
+~MSle0~/PATH
+
 # Last Substitute String:
 $
 
 # Command Line History (newest to oldest):
-:wq!
 :q!
+:wq!
+:qw!
+:.,.+1!
+:Q
+:wq1
 :wq!!
 
 # Search String History (newest to oldest):
+?/PATH
+?/configure
 
 # Expression History (newest to oldest):
 
@@ -24,43 +33,66 @@ $
 # Input Line History (newest to oldest):
 
 # Registers:
+"0	LINE	0
+	npm= "/home/master/npm/bin/npm"
 ""1	LINE	0
-	
+	export ="/home/master/npm/lib/node_modules/npm/bin/"
 "2	LINE	0
-	*/
+	npm= "/home/master/npm/bin/npm"
 "3	LINE	0
-	/* examples
+	# ~/.bashrc: executed by bash(1) for non-login shells.
 "4	LINE	0
-	
+	kd# or...
 "5	LINE	0
-	413
-<ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDdiQHSKYNsKsdqEfA9dhUCef7G2Jao+jcLDeH2/UxtKcoF93G/ZDNyYkr3S8ktJ3QGezjuPz7+lkl+niXiJXTMY+aYIb4jZ4EsmIcUsCa6IT56RoxsxZskicPyl0k4aTBrzvNKIHrlSj4pZv1ouI0RGhbv2DTPxveMrf/ssCMmLCZBDfkm8NCvQLe14blu5nlpCKnEoBGYRUbptP8VadkOx2kNs+YN6IPUyOUVqtb+cTpbLO0b1afpO081r2wpQDHQutfxHbA65jJ5dkptucGdIUfNTjMATzVJV0hrYnXnPI4dXsdhYcsBkFLgtqF/sEWMLXPIIOnNDDMNp4GSyTFr  DeployHQ.com Key for gaditek
+	nano ~/.bash_profile # for Mac if you haven't created a .bashrc file
 "6	LINE	0
-	412
-<ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQDHoWhiip42IGYR+8H6kSKI4kti40AZTMdJO2x1oivZBhHN5i3iQskiGbUQVHc5ngC40j4FgRl2UjvLaqf/EifzhRtAub07BlPNBA3m/Hsi3uvuqBqTq+mLUPJaB8BecZgwC4EuWZEi/IlC6XB3PE2E7xtIDGPjOmPBixs1fICc4W66vQF9hgvQ91mZrvWzJuAogh0UQCtVZa47SCY3W9xdiavB61tP2Fi7vef/D29jfL/WYXFcu/BdaUrkgdb/FtGfwbTuzr2Roqdu5uezEP69MhuWad9kelG+BDyclahrQmyC1SYAzV5RMbK525pI74hJIpprVTD9oxQu+zkO74+t DeployHQ.com Key for gaditek
+	nano ~/.bashrc # for Linux
 "7	LINE	0
-	444
-<|1|6S7yCFiuPsWpHxsmowuQQMPMvJA=|TQi5LDg5F8P5UHwBMG84u18/2Zs= ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAq2A7hRGmdnm9tUDbO9IDSwBK6TbQa+PXYPCPy6rbTrTtw7PHkccKrpp0yVhp5HdEIcKr6pLlVDBfOLX9QUsyCOV0wzfjIJNlGEYsdlLJizHhbn2mUjvSAHQqZETYP81eFzLQNnPHt4EVVUh7VfDESU84KezmD5QlWpXLmvU31/yMf+Se8xhHTvKSCZIFImWwoG6mbUoWf9nzpIoaSjB+weqqUUmpaaasXVal72J+UX2B+2RPW3RcT0eOzQgqlJL3RKrTJvdsjE3JEAvGq3lGHSZXy28G3skua2SmVi/w4yCE6gbODqnTWlg7+wC604ydGXA8VJiS5ap43JXiUFFAaQ==
+	=dd
 "8	LINE	0
-	444
-<|1|WkZaZIbRn0PzWySTbOgIexJNvWs=|Z4KvBh9ba4Va7BMpo2/mU8izFvI= ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAq2A7hRGmdnm9tUDbO9IDSwBK6TbQa+PXYPCPy6rbTrTtw7PHkccKrpp0yVhp5HdEIcKr6pLlVDBfOLX9QUsyCOV0wzfjIJNlGEYsdlLJizHhbn2mUjvSAHQqZETYP81eFzLQNnPHt4EVVUh7VfDESU84KezmD5QlWpXLmvU31/yMf+Se8xhHTvKSCZIFImWwoG6mbUoWf9nzpIoaSjB+weqqUUmpaaasXVal72J+UX2B+2RPW3RcT0eOzQgqlJL3RKrTJvdsjE3JEAvGq3lGHSZXy28G3skua2SmVi/w4yCE6gbODqnTWlg7+wC604ydGXA8VJiS5ap43JXiUFFAaQ==
+	
 "9	LINE	0
-	444
-<|1|jjumg22YesA1RrO/sWCro2j/OO0=|W+FRl9ARnfeUSEKkxKoSx507eIM= ssh-rsa AAAAB3NzaC1yc2EAAAABIwAAAQEAq2A7hRGmdnm9tUDbO9IDSwBK6TbQa+PXYPCPy6rbTrTtw7PHkccKrpp0yVhp5HdEIcKr6pLlVDBfOLX9QUsyCOV0wzfjIJNlGEYsdlLJizHhbn2mUjvSAHQqZETYP81eFzLQNnPHt4EVVUh7VfDESU84KezmD5QlWpXLmvU31/yMf+Se8xhHTvKSCZIFImWwoG6mbUoWf9nzpIoaSjB+weqqUUmpaaasXVal72J+UX2B+2RPW3RcT0eOzQgqlJL3RKrTJvdsjE3JEAvGq3lGHSZXy28G3skua2SmVi/w4yCE6gbODqnTWlg7+wC604ydGXA8VJiS5ap43JXiUFFAaQ==
+	*/
+"-	CHAR	0
+	s
 
 # File marks:
-'0  1  6  ~/hasan12
-'1  1  7  ~/bapti
-'2  1  5  ~/abc
-'3  1  0  /home/211111.cloudwaysapps.com/vyurhksxtw/public_html/!
-'4  1  2  ~/hasanfinal.txt
-'5  1  0  ~/.git/config
-'6  1  11  ~/lastsdsd.php
-'7  5  0  /home/211111.cloudwaysapps.com/vyurhksxtw/public_html/gitautodeploy.php
-'8  1  12  ~/lastfile3.txt
-'9  8  54  /home/211111.cloudwaysapps.com/vyurhksxtw/public_html/gitautodeploy.phpp
+'0  1  0  ~/test1
+'1  1  0  ~/.bashrc
+'2  4  0  ~/test1
+'3  5  54  ~/test1
+'4  8  0  ~/test
+'5  5  10  ~/.bash_profile
+'6  4  0  ~/.bash_profile
+'7  3  31  ~/.bash_profile
+'8  1  22  ~/.npmrc
+'9  2  0  ~/.bashrc
 
 # Jumplist (newest first):
+-'  1  0  ~/test1
+-'  1  0  ~/.bashrc
+-'  111  0  ~/.bashrc
+-'  4  0  ~/test1
+-'  5  54  ~/test1
+-'  8  0  ~/test
+-'  5  10  ~/.bash_profile
+-'  1  0  ~/.bash_profile
+-'  4  0  ~/.bash_profile
+-'  3  31  ~/.bash_profile
+-'  1  22  ~/.npmrc
+-'  2  0  ~/.bashrc
+-'  111  0  ~/.bashrx~
+-'  1  0  ~/.bashrx~
+-'  110  0  ~/.bashrc
+-'  6  0  ~/.bash_profile
+-'  44  3  ~/test/install.sh
+-'  1  0  ~/test/install.sh
+-'  2  0  ~/.bash_profile
+-'  49  0  ~/.npm/_logs/2018-10-23T12_31_50_609Z-debug.log
+-'  1  0  ~/.npm/_logs/2018-10-23T12_31_50_609Z-debug.log
+-'  112  4  ~/.bashrc
+-'  120  55  ~/.bashrc
+-'  1  60  ~/gitnotes.txt
 -'  1  6  ~/hasan12
 -'  1  7  ~/bapti
 -'  1  5  ~/abc
@@ -85,82 +117,114 @@ $
 -'  1  0  ~/.ssh/known_hosts
 -'  3  80  /home/211111.cloudwaysapps.com/vyurhksxtw/public_html/hasan.check
 -'  1  0  /home/211111.cloudwaysapps.com/vyurhksxtw/public_html/hasan.check
--'  1  0  ~/test
--'  2  0  ~/test
 -'  8  0  ~/.npm
--'  3  55  ~/test
--'  115  55  ~/.bashrc
--'  111  0  ~/.bashrc
--'  1  0  ~/.bashrc
--'  115  55  ~/.bashrc
--'  111  0  ~/.bashrc
--'  1  0  ~/.bashrc
--'  115  55  ~/.bashrc
--'  111  0  ~/.bashrc
--'  1  0  ~/.bashrc
--'  115  55  ~/.bashrc
--'  111  0  ~/.bashrc
--'  1  0  ~/.bashrc
+-'  124  55  ~/.bashrc
 -'  8  0  ~/.npm
--'  115  55  ~/.bashrc
--'  111  0  ~/.bashrc
--'  1  0  ~/.bashrc
--'  115  55  ~/.bashrc
--'  111  0  ~/.bashrc
--'  1  0  ~/.bashrc
--'  115  55  ~/.bashrc
--'  111  0  ~/.bashrc
--'  1  0  ~/.bashrc
--'  115  55  ~/.bashrc
--'  111  0  ~/.bashrc
--'  1  0  ~/.bashrc
 -'  8  0  ~/.npm
--'  115  55  ~/.bashrc
--'  111  0  ~/.bashrc
--'  1  0  ~/.bashrc
--'  115  55  ~/.bashrc
--'  111  0  ~/.bashrc
--'  1  0  ~/.bashrc
--'  115  55  ~/.bashrc
--'  111  0  ~/.bashrc
--'  1  0  ~/.bashrc
--'  115  55  ~/.bashrc
--'  111  0  ~/.bashrc
--'  1  0  ~/.bashrc
 -'  8  0  ~/.npm
--'  115  55  ~/.bashrc
--'  111  0  ~/.bashrc
--'  1  0  ~/.bashrc
--'  115  55  ~/.bashrc
--'  111  0  ~/.bashrc
--'  1  0  ~/.bashrc
--'  115  55  ~/.bashrc
--'  111  0  ~/.bashrc
--'  1  0  ~/.bashrc
--'  115  55  ~/.bashrc
--'  111  0  ~/.bashrc
--'  1  0  ~/.bashrc
--'  1  0  ~/test
--'  2  0  ~/test
 -'  8  0  ~/.npm
--'  3  55  ~/test
--'  115  55  ~/.bashrc
--'  111  0  ~/.bashrc
--'  1  0  ~/.bashrc
--'  115  55  ~/.bashrc
--'  111  0  ~/.bashrc
--'  1  0  ~/.bashrc
--'  115  55  ~/.bashrc
--'  111  0  ~/.bashrc
--'  1  0  ~/.bashrc
--'  115  55  ~/.bashrc
--'  111  0  ~/.bashrc
--'  1  0  ~/.bashrc
+-'  1  60  ~/gitnotes.txt
+-'  1  6  ~/hasan12
+-'  1  7  ~/bapti
+-'  1  5  ~/abc
+-'  1  0  /home/211111.cloudwaysapps.com/vyurhksxtw/public_html/!
+-'  1  2  ~/hasanfinal.txt
+-'  1  0  ~/.git/config
+-'  1  11  ~/lastsdsd.php
+-'  5  0  /home/211111.cloudwaysapps.com/vyurhksxtw/public_html/gitautodeploy.php
+-'  1  0  /home/211111.cloudwaysapps.com/vyurhksxtw/public_html/gitautodeploy.php
+-'  1  12  ~/lastfile3.txt
+-'  8  54  /home/211111.cloudwaysapps.com/vyurhksxtw/public_html/gitautodeploy.phpp
+-'  63  0  /home/211111.cloudwaysapps.com/vyurhksxtw/public_html/gitautodeploy.phpp
+-'  1  0  /home/211111.cloudwaysapps.com/vyurhksxtw/public_html/gitautodeploy.phpp
+-'  64  18  /home/211111.cloudwaysapps.com/vyurhksxtw/public_html/gitautodeploy.phpp
+-'  54  1  /home/211111.cloudwaysapps.com/vyurhksxtw/public_html/gitautodeploy.php
+-'  53  0  /home/211111.cloudwaysapps.com/vyurhksxtw/public_html/gitautodeploy.php
+-'  2  46  /home/211111.cloudwaysapps.com/vyurhksxtw/public_html/gitautodeploy.php
+-'  41  23  /home/211111.cloudwaysapps.com/vyurhksxtw/public_html/gitautodeploy.php
+-'  74  0  ~/.git/hooks/update.sample
+-'  1  0  ~/.git/hooks/update.sample
+-'  1  379  ~/.ssh/authorized_keys
+-'  1  0  ~/.ssh/known_hosts
+-'  3  80  /home/211111.cloudwaysapps.com/vyurhksxtw/public_html/hasan.check
+-'  1  0  /home/211111.cloudwaysapps.com/vyurhksxtw/public_html/hasan.check
 -'  8  0  ~/.npm
--'  115  55  ~/.bashrc
+-'  8  0  ~/.npm
+-'  8  0  ~/.npm
+-'  8  0  ~/.npm
+-'  8  0  ~/.npm
+-'  1  60  ~/gitnotes.txt
+-'  1  6  ~/hasan12
+-'  1  7  ~/bapti
+-'  1  5  ~/abc
+-'  1  0  /home/211111.cloudwaysapps.com/vyurhksxtw/public_html/!
+-'  1  2  ~/hasanfinal.txt
+-'  1  0  ~/.git/config
+-'  1  11  ~/lastsdsd.php
+-'  5  0  /home/211111.cloudwaysapps.com/vyurhksxtw/public_html/gitautodeploy.php
+-'  8  0  ~/test
+-'  1  0  ~/.bashrc
 -'  111  0  ~/.bashrc
 
 # History of marks within files (newest to oldest):
+
+> ~/test1
+	"	1	0
+	.	5	0
+	+	5	0
+
+> ~/.bashrc
+	"	1	0
+	^	112	5
+	.	1	0
+	+	125	0
+	+	124	39
+	+	121	0
+	+	120	0
+	+	113	0
+	+	112	4
+	+	1	0
+
+> ~/.bash_profile
+	"	5	10
+	^	5	11
+	.	5	11
+	+	1	26
+	+	7	0
+	+	1	0
+	+	6	11
+	+	4	31
+	+	6	0
+	+	3	32
+	+	6	0
+	+	5	11
+
+> ~/.npmrc
+	"	1	22
+
+> ~/.bashrx~
+	"	111	0
+
+> ~/test/install.sh
+	"	44	3
+
+> ~/.npm/_logs/2018-10-23T12_31_50_609Z-debug.log
+	"	49	0
+
+> ~/test
+	"	2	0
+	^	5	56
+	.	2	0
+	+	7	45
+	+	5	0
+	+	1	0
+	+	2	0
+
+> ~/gitnotes.txt
+	"	1	60
+	^	1	61
+	.	1	0
+	+	1	0
 
 > ~/hasan12
 	"	1	6
@@ -270,16 +334,3 @@ $
 	^	3	81
 	.	3	42
 	+	3	42
-
-> ~/test
-	"	1	0
-	^	3	56
-	.	3	45
-	+	3	45
-
-> ~/.bashrc
-	"	115	55
-	^	115	56
-	.	115	39
-	+	116	0
-	+	115	39
