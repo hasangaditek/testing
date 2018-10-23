@@ -1,0 +1,2 @@
+install bower, firebase 
+npm version upgrade 3.0.2
