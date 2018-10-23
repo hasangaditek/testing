@@ -852,3 +852,384 @@ cd ..
 ls -trl
 cd deployments/
 ls -trl
+netstat -ant
+ls -trl
+ps -ef
+cat /etc/varnish/cloudways.vcl 
+ls -ltr
+ps -ef
+ps -ef | less
+ls -ltr
+cat ..
+ls
+cd
+ls -trl
+git init
+ls -tlr
+cd .git/
+ls
+ls -tlr
+cd branches/
+ls
+ls -trl
+cd logs
+ls
+cd ..
+cd logs
+ls -tlr
+date
+cd
+ls -tlr
+cd applications
+ls
+cd vyurhksxtw/
+ls
+cd public_html/
+ls
+ls -tlr
+cd deployments/
+ls
+ls -trl
+ls -ltr
+cd ..
+ls
+ls -tlr
+vim gitautodeploy.php 
+rm -rf gitautodeploy.php 
+vim gitautodeploy.phpp
+ls -tlr
+mv gitautodeploy.phpp gitautodeploy.php
+cd
+ls -trl
+touch abc
+git push -u origin master
+git pull
+ls -tlr
+git push 
+git push -u origin master
+ls -ltr
+cd applications
+ls
+ls -trl
+cd vyurhksxtw/
+ls
+ls -trl
+cd public_html/
+ls
+ls -trl
+cd
+ls -trl
+touch lastfile3.txt
+vim lastfile3.txt 
+git push -u origin master
+cd
+ls -trl
+datee
+cd
+cd applications
+ls
+ls -trl
+cd vyurhksxtw/
+ls
+ls -trl
+cd public_html/
+ls
+ls -trl
+cd deployments/
+ls
+cd ..
+ls
+ls -tlr
+vim gitautodeploy.php 
+ls -trl
+cd
+ls -trl
+git pull
+ls -trl
+touch lastsdsd.php
+vim lastsdsd.php 
+git push -u origin master
+ls -tlr
+cd 
+cd applications
+cd pu
+ls
+cd vyurhksxtw/p
+ls
+cd vyurhksxtw/public_html/
+ls
+ls -tlr
+cd
+git config --global user.email "hasanatizaz.cloudways@gmail.com"
+git config --global user.name "hasanatizaz"
+git commit -m "added my github name"
+git push origin master
+ls -tlr
+cd applications
+ls
+cd vyurhksxtw/
+ls
+ls -trl
+cd public_html/
+ls
+ls-trl
+ls -trl
+cd 
+ls -trl
+git pull
+cd applications/vyurhksxtw/
+ls -trl
+cd public_html/
+ls
+lsl -trl
+ls -tlr
+cd
+ls -ltr
+cd .git/
+ls
+ls -trl
+vim config 
+ls -tlr
+cd logs
+ls -tlr
+cat HEAD
+cd ..
+ls
+lsl -tlr
+ls -trl
+cd
+cd applications/vyurhksxtw/public_html/
+ls
+ls -trl
+pwd
+ls -tlr
+ls -trla
+cd wp-content/
+ls
+ls -trl
+cd ..
+ls
+ls -lrt
+ls -trl
+cd
+ls -trl
+vim hasanfinal.txt
+ls -trlls -trl
+git push origin master
+ls -trl
+date
+cd 
+cd applications/vyurhksxtw/public_html/
+ls
+ls -trl
+vim !
+cd
+ls -trl
+git push origin master
+ls -trl
+git pull origin 
+ls -trl
+git push 
+git push origin master
+ls -trl
+vim abc
+git push origin master
+git commit -m "added my githu"
+git push origin master
+git push
+git push origin master
+ls -trl
+vim bapti
+git push origin master
+git commit -m "added my githu"
+git push origin master
+git status
+git commit -a
+ls -trl
+git push origin master
+git push 
+git push origin
+git push origin master
+git push -u origin master
+git push
+git push origin master
+git pull origin master
+ls -trl
+git push origin master
+git add .
+git commit -m "test"
+git push origin master
+ls -trl
+cd applications/vyurhksxtw/
+ls
+ls -trl
+cd public_html/
+ls
+ls -trl
+cd
+ls -trl
+vim hasan12
+ls -ltr
+git add .
+git commit -m "testhasan"
+git push origin master
+ls -trl
+cd  applications
+ls
+ls -trl
+cd vyurhksxtw/
+ls
+ls -trl
+cd public_html/
+ls
+ls -tlr
+ls -tlr
+rm -rf 123hasan 
+ls -ltr
+cd applications
+ls -tlr
+cd vyurhksxtw/
+ls -trl
+cd public_html/deployments/
+ls -tlr
+ll
+ls -trl
+ls -tlr
+curl -X GET --header 'Accept: application/json' 'https://api.cloudways.com/api/v1/service?server_id=211111'
+curl -X POST --header 'Content-Type: application/x-www-form-urlencoded' --header 'Accept: application/json' -d 'server_id=211111&service=apache2&state=restart' 'https://api.cloudways.com/api/v1/service/state'
+ls -tlr
+crontab -l
+crontab -e
+crontab -l
+cd /var/log/syslog
+tail -100f /var/log/syslog
+pwd
+ls -ltr
+ls -trl
+cd ..
+ls -trl
+ls -ltr
+cd deployments/
+lsl
+ls -tlr
+ls -ltr
+ls -tlr
+cd ..
+ls
+ls -tlr
+ls
+vim gitautodeploy.php
+ls -trl
+cd deployments/
+ls
+ls -trl
+ls -tlr
+cd ..
+ls
+ls -trl
+ls -tlr
+cat gitautodeploy.php 
+vim gitautodeploy.php 
+ls -tlr
+cd
+ls -ltr
+cd abc123/
+ls tlr
+ls -ltr
+cd ..
+ls
+ls -trl
+cd applications/vyurhksxtw/
+ls
+ls trl
+ls -t-rl
+cd public_html/
+ls
+ls -tlr
+cd deployments/
+ls
+cd ..
+ls
+ls -tlr
+locate security-tools
+ls -trl
+find . / -iname security-tools
+49.cloudwaysapps.com/wp-admin/
+Username:
+hasanatizaz.cloudways@gmail.com
+Password:
+m85Arw7Zka
+MYSQL ACCESS
+DB Name:
+vyurhksxtw
+Username:
+vyurhksxtw
+Password:
+jGvGMwRj9e
+Application Credentials
+You can create and use multiple Application credentials for SFTP or SSH access to this Application. More details
+Public IP:
+178.62.4.195
+Username: | ke
+Passw
+ls -tlr
+find . -iname security-tools
+find . /home/master/ -iname security-tools
+pwd
+find . /home/master/applications -iname security-tools
+cd
+ls -trl
+cd /home/master/
+ls
+ls -tlr
+cd 
+cd .git/
+ls
+ls -trl
+date
+cd hooks/
+ls
+ls --trl
+cd ..
+ls
+cd branches/
+ls
+cd ..
+cd logs
+ls -tlr
+cd refs/
+ls
+cd remotes/
+ls
+ls -trl
+cd origin/
+ls
+cat master
+ls -ltr
+cd
+ls -trl
+cd pub
+ls
+cd applications
+ls
+ls -trl
+cd vyurhksxtw/
+lsl -trl
+cd pp
+ls
+cd public_html/
+ls
+ls -trl
+ls -tlr
+vim gitautodeploy.php 
+ll
+ls -ltr
+vim gitautodeploy.php 
+ls -trl
+chmod 777 gitautodeploy.php 
+ls -tlr
+./gitautodeploy.php 
+ll
+ls -tlr
+ls -ltr
+mutt
